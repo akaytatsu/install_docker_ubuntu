@@ -1,5 +1,6 @@
 sudo apt update -y
-sudo apt install -y build-essential git curl
+sudo apt install software-properties-common
+sudo apt install -y build-essential git curl python3 python3-pip
 sudo snap install code --classic
 sudo snap install spotify
 sudo snap install sublime-text --classic
