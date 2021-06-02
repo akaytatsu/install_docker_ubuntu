@@ -1,5 +1,5 @@
 sudo apt update -y
-sudo apt install -y build-essential git
+sudo apt install -y build-essential git curl
 sudo snap install code --classic
 sudo snap install spotify
 sudo snap install sublime-text --classic
